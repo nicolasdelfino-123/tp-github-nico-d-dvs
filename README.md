@@ -1,2 +1,2 @@
-# guillermo.verini
-Creando Librerias de Prompt y link's a sitios de iA
+# Desafío - GitHub.
+En este desafío validaremos nuestros conocimientos de GitHub.
